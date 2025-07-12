@@ -64,3 +64,31 @@ nav{
     padding: 10px 15px;
     display: block;
 }
+/*------action section-----*/
+
+.act{
+    display: flex;
+    justify-content: center;
+}
+.action{
+    width: 600px;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+.act-dis{
+    display: flex;
+    gap: 110px;
+}
+.ac-head p{
+    font-size: 14 px;
+    color:gray ;
+}
+.btn3{
+    padding: 10px 20px;
+}
+.ac-img{
+    height: 170px;
+    width: 180px;
+    border-radius: 20%;
+}
