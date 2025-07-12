@@ -186,3 +186,79 @@ nav{
     background-color: rgb(227, 239, 255);
     transition: 0.5s;
 }
+/*-----focus section----*/
+.fc-main{
+    display: flex;
+    justify-content: center;
+}
+.focus{
+    background-color: white;
+    text-align: center;
+    padding: 30px 50px;
+    width: 600px;
+    margin: 20px 50px; 
+    border-radius: 20px;
+
+}
+.focus h1{
+    font-size: 40px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.focus p{
+    font-size: 12px;
+    margin: 10px;
+    color: gray;
+}
+.focus-btn{
+    
+    text-align: center;
+    padding: 10px 24px;
+    margin-bottom: 20px;
+}
+.focus-img{
+    height: 220px;
+    width: 500px;
+    border-radius: 20px;
+}
+/*----form section---*/
+.frm-main{
+    display: flex;
+    justify-content: center;
+}
+.form-sec{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    padding: 50px 20px;
+}
+.form input{
+    margin: 5px;
+}
+.form-head h1{
+    font-size: 50px;
+}
+.in-item{
+    height: 35px;
+    border: none;
+    width: 250px;
+    margin: 0px;
+    border-radius: 5px;
+}
+.in-item2{
+    height: 80px;
+    border: none;
+    width: 255px;
+    border-radius: 5px;
+}
+.form-btn{
+    height: 35px;
+    width: 255px;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+textarea{
+    resize: none;
+}
