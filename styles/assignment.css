@@ -92,3 +92,30 @@ nav{
     width: 180px;
     border-radius: 20%;
 }
+/*----follower section----*/
+.flo{
+    display: flex;
+    justify-content: center;
+}
+.follower{
+    width: 600px;
+    background-color: #e5e7ff;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px 30px;
+    margin: 0px 50px;
+
+}
+.user-main{
+    display: flex;
+    justify-content: space-around;
+}
+.user h1{
+    color: #4E47FF;
+    font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.user p{
+    font-size: 12px;
+    color: grey;
